@@ -32,4 +32,18 @@ Soniditos es una aplicación de escritorio para Windows que te permite disfrutar
 
 ## 📝 Licencia
 
-Copyright © 2025 Soniditos, All Rights Reserved
+<p align="center">
+	Repositorio generado por <a href="https://github.com/sabiopobre" target="_blank">virtu 🎣</a>
+</p>
+
+<p align="center">
+	<img src="https://soniditos.com/cat_footer.svg" />
+</p>
+
+<p align="center">
+	Copyright &copy; 2025
+</p>
+
+<p align="center">
+	<a href="/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
